@@ -35,8 +35,6 @@ An **IR sensor** detects the presence of an object by emitting and receiving inf
 3. Select the **target microcontroller** or board and click **Next**.
    <img width="1110" height="624" alt="image" src="https://github.com/user-attachments/assets/f93d88b6-cd7f-49db-84de-351f9b116488" />
 
-
-
 4. Name the project.
    <img width="533" height="588" alt="image" src="https://github.com/user-attachments/assets/63de2bab-69d4-4cb9-8db6-1b57adff9878" />
 
@@ -103,7 +101,11 @@ int main(void)
 ### OUTPUT
 CASE 1: LED ON 
 
+![IMG-20251112-WA0065 1](https://github.com/user-attachments/assets/b11cf0aa-fd1d-4e4d-b75d-377536640c12)
+
 CASE 2: LED OFF
+
+![IMG-20251112-WA0066 1](https://github.com/user-attachments/assets/78f4201c-ffce-4a3c-a437-a236c1c5d2b5)
 
 ---
 ### RESULT
